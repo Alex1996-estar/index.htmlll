@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/33b60049-d99c-4f79-8dde-5162df68041c/deploy-status)](https://app.netlify.com/sites/voluble-cupcake-c87eec/deploys)
 <!DOCTYPE html>
 <html lang="es">
 <head>
